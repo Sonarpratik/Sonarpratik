@@ -17,13 +17,10 @@ Always eager to learn and explore new technologies, I thrive on solving complex 
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-## Projects
-- [**Netflix Clone**](#): A Netflix Clone App developed with user authentication. **Username:** _saira_, **Password:** _princess@9_
-- [**NxT Trendz**](#): An E-Commerce website created using ReactJS with user authentication. **Username:** _rahul_, **Password:** _rahul@2021_
 
 ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/pratik-sonar-7698bb228/))
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonarpratik02.ps@gmail.com)
 
 ---
 
